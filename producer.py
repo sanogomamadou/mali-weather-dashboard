@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("MeteoProducer")
 
 # OpenWeatherMap Config
-API_KEY = "520f6307ae14de11f0d946c52ff9252c"  # Remplacez par votre clé
+API_KEY = "xxxxxxxxxxxxxxxxxxxxx"  # Remplacez par votre clé
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 CITIES = [
     {"name": "Bamako", "country": "ML"},
