@@ -64,7 +64,7 @@ Voici un aperçu des visualisations présentes dans Kibana :
 
 ## 📸 Capture d'écran du Dashboard
 
-*Ajoute ici un screenshot de ton dashboard Kibana*
+![Dashboard météo temps réel](./Dashboard.jpeg)
 
 ---
 
